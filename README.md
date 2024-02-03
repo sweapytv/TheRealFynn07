@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @TheRealFynn07
-- 👀 I'm interested in Beat Saber!
+- 👀 I love playing Beat Saber!
 - 🌱 I'm currently learning JavaScript, CSS, HTML and TypeScript!
 - You can contact me on Discord! fynn07
 - You can also find me on YouTube! @Fynn07
