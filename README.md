@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Beat Saber**
 
-- 📫 How to reach me **on my Discord below**
+- 📫 You can reach me **on my Discord below**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
