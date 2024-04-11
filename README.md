@@ -13,7 +13,7 @@
 
 - 💬 Ask me about [Beat Saber](https://beatsaber.com/)
 
-- 📫 You can reach me **on my <a href="https://discord.gg/GSENAkcHvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GSENAkcHvm" height="30" width="40" />Discord</a>**
+- 📫 You can reach me **on my<a href="https://discord.gg/GSENAkcHvm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="GSENAkcHvm" height="30" width="40" />Discord</a>**
 
 <p align="left">
 <a href="https://twitter.com/therealfynn07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="therealfynn07" height="30" width="40" /></a>
