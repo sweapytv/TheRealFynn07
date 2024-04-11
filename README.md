@@ -9,7 +9,7 @@
 
 - 🎵 Find me on BeatLeader! [CUDL Fynn07 | TC](https://beatleader.net/u/76561198379833217)
 
-- 👨‍💻 All of my projects are available at [https://github.com/TheRealFynn07](https://github.com/TheRealFynn07)
+- 👨‍💻 Almost all of my projects are available at [https://github.com/TheRealFynn07](https://github.com/TheRealFynn07)
 
 - 💬 Ask me about [Beat Saber](https://beatsaber.com/)
 
