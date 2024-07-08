@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Angular, JavaScript, TypeScript, HTML and CSS**
 
-- 🎵 Find me on BeatLeader! [CUDL Fynn07 | TC](https://beatleader.net/u/76561198379833217)
+- 🎵 Find me on BeatLeader! [ACC | CUDL Fynn07 | TC](https://beatleader.net/u/fynn07)
 
 - 👨‍💻 Almost all of my projects are available at [https://github.com/TheRealFynn07](https://github.com/TheRealFynn07)
 
